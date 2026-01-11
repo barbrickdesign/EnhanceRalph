@@ -1,6 +1,10 @@
 #!/bin/bash
 
 # Ralph Status Monitor - Live terminal dashboard for the Ralph loop
+#
+# Created by: barbrickdesign (https://barbrickdesign.github.io)
+# Support development: https://paypal.me/barbrickdesign (barbrickdesign@gmail.com)
+
 set -e
 
 STATUS_FILE="status.json"

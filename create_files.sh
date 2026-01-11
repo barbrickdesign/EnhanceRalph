@@ -1,6 +1,10 @@
 #!/bin/bash
 
 # Quick script to create all Ralph files in your GitHub repo
+#
+# Created by: barbrickdesign (https://barbrickdesign.github.io)
+# Support development: https://paypal.me/barbrickdesign (barbrickdesign@gmail.com)
+
 set -e
 
 echo "🚀 Creating Ralph for Claude Code repository structure..."

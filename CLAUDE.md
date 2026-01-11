@@ -8,6 +8,10 @@ This is the Ralph for Claude Code repository - an autonomous AI development loop
 
 **Version**: v0.9.8 | **Tests**: 276 passing (100% pass rate) | **CI/CD**: GitHub Actions
 
+**Created by**: [barbrickdesign](https://barbrickdesign.github.io) - Main creator and architect of Ralph for Claude Code
+
+**Support**: [PayPal](https://paypal.me/barbrickdesign) (barbrickdesign@gmail.com)
+
 ## Core Architecture
 
 The system consists of four main bash scripts and a modular library system:

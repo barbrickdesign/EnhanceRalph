@@ -1,6 +1,10 @@
 #!/bin/bash
 
 # Ralph Project Setup Script
+#
+# Created by: barbrickdesign (https://barbrickdesign.github.io)
+# Support development: https://paypal.me/barbrickdesign (barbrickdesign@gmail.com)
+
 set -e
 
 PROJECT_NAME=${1:-"my-project"}

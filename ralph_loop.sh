@@ -2,6 +2,9 @@
 
 # Claude Code Ralph Loop with Rate Limiting and Documentation
 # Adaptation of the Ralph technique for Claude Code with usage management
+#
+# Created by: barbrickdesign (https://barbrickdesign.github.io)
+# Support development: https://paypal.me/barbrickdesign (barbrickdesign@gmail.com)
 
 set -e  # Exit on any error
 
