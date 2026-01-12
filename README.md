@@ -14,6 +14,20 @@ Ralph is an implementation of the Geoffrey Huntley's technique for Claude Code t
 
 **Install once, use everywhere** - Ralph becomes a global command available in any directory.
 
+---
+
+## 🎯 Creator & Support
+
+**Created by**: [barbrickdesign](https://barbrickdesign.github.io) - Main creator and architect of this project
+
+**Support this project**: If you find Ralph useful, please consider supporting its development:
+- 💰 **PayPal**: [https://paypal.me/barbrickdesign](https://paypal.me/barbrickdesign) (barbrickdesign@gmail.com)
+- ⭐ **Star this repository** to show your support
+- 🐛 **Report issues** to help improve the project
+- 💡 **Share your feedback** and success stories
+
+---
+
 ## Project Status
 
 **Version**: v0.9.8 - Active Development
@@ -665,6 +679,13 @@ Ralph is seeking contributors! See [CONTRIBUTING.md](CONTRIBUTING.md) for the co
 2. **Feature Development** - Log rotation, dry-run mode, config files
 3. **Documentation** - Usage examples, tutorials, troubleshooting guides
 4. **Bug Reports** - Real-world usage feedback and edge cases
+
+### Support the Project
+If Ralph has saved you time or helped your projects, please consider:
+- 💰 **Donate via PayPal**: [https://paypal.me/barbrickdesign](https://paypal.me/barbrickdesign) (barbrickdesign@gmail.com)
+- ⭐ **Star this repository** on GitHub
+- 🐦 **Share** your Ralph success stories on social media
+- 📝 **Contribute** code, tests, or documentation
 
 ---
 

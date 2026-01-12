@@ -2,6 +2,9 @@
 
 # date_utils.sh - Cross-platform date utility functions
 # Provides consistent date formatting and arithmetic across GNU (Linux) and BSD (macOS) systems
+#
+# Created by: barbrickdesign (https://barbrickdesign.github.io)
+# Support development: https://paypal.me/barbrickdesign (barbrickdesign@gmail.com)
 
 # Get current timestamp in ISO 8601 format with seconds precision
 # Returns: YYYY-MM-DDTHH:MM:SS+00:00 format

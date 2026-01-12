@@ -1,6 +1,10 @@
 #!/bin/bash
 
 # Ralph for Claude Code - Global Installation Script
+#
+# Created by: barbrickdesign (https://barbrickdesign.github.io)
+# Support development: https://paypal.me/barbrickdesign (barbrickdesign@gmail.com)
+
 set -e
 
 # Configuration

@@ -2,6 +2,10 @@
 
 # Ralph Import - Convert PRDs to Ralph format using Claude Code
 # Version: 0.9.8 - Modern CLI support with JSON output parsing
+#
+# Created by: barbrickdesign (https://barbrickdesign.github.io)
+# Support development: https://paypal.me/barbrickdesign (barbrickdesign@gmail.com)
+
 set -e
 
 # Configuration

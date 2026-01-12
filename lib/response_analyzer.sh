@@ -1,6 +1,9 @@
 #!/bin/bash
 # Response Analyzer Component for Ralph
 # Analyzes Claude Code output to detect completion signals, test-only loops, and progress
+#
+# Created by: barbrickdesign (https://barbrickdesign.github.io)
+# Support development: https://paypal.me/barbrickdesign (barbrickdesign@gmail.com)
 
 # Source date utilities for cross-platform compatibility
 source "$(dirname "${BASH_SOURCE[0]}")/date_utils.sh"
